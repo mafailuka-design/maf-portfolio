@@ -103,7 +103,7 @@ export default function Footer() {
         {/* Bottom Row: Copyright and Back to Top */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex items-center gap-1 text-center sm:text-left">
-            <span>&copy; {currentYear} Alex Rivera. All rights reserved.</span>
+            <span>&copy; {currentYear} Mafai Luka. All rights reserved.</span>
           </div>
 
           <div className="flex items-center gap-6">
